@@ -60,7 +60,7 @@ study_bot/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/study-bot.git
+git clone https://github.com/kumaratul1134/study-chatbot.git
 ```
 
 ## 2. Move Into Folder
